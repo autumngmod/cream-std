@@ -1,8 +1,8 @@
 # cream-std
-``cream-std`` is a library that adds some std for (cream)[https://github.com/autumngmod/cream]
+``cream-std`` is a library that adds some std for [cream](https://github.com/autumngmod/cream)
 
 # Installation
-Via (libloader)[https://github.com/autumngmod/libloader]
+Via [libloader](https://github.com/autumngmod/libloader)
 ```bash
 lib install autumngmod/cream-std
 ```

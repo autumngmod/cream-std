@@ -12,6 +12,7 @@ lib install autumngmod/cream-std
 | --- | --- |
 | ``cream.localplayer`` | Adds the ability to get LocalPlayer data |
 | ``cream.darkrp`` (wip) | Adds the ability to interact with Falco's DarkRP methods |
+| ``cream.focus`` | Allows you to control the focus of the WebUI |
 
 # Usage
 > [!NOTE]

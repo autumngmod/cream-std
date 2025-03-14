@@ -42,7 +42,7 @@ cream:register("cream.darkrp", function(view)
   -- todo
 end)
 
-cream:register("focus", function(view)
+cream:register("cream.focus", function(view)
   ---@param focused boolean
   view:define("setFocus", function(focused)
     local panel = view.panel

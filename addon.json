@@ -3,7 +3,7 @@
   "name": "cream-std",
   "description": "Extended std, with standard functions",
   "authors": ["smokingplaya"],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "githubRepo": "https://github.com/autumngmod/cream-std",
   "side": ["client"],
   "dependencies": {

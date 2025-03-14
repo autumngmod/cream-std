@@ -41,3 +41,18 @@ end)
 cream:register("cream.darkrp", function(view)
   -- todo
 end)
+
+cream:register("focus", function(view)
+  ---@param focused boolean
+  view:define("setFocus", function(focused)
+    local panel = view.panel
+
+    if (focused) then
+      panel:MakePopup()
+    else
+      panel:SetMouseInputEnabled(false)
+      panel:SetKeyboardInputEnabled(false)
+      panel:KillFocus()
+    end
+  end)
+end)
